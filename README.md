@@ -16,14 +16,8 @@
 
 
 ##
-<div align="center"><br>
- <a href="https://github.com/Joao-SLeite">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-SLeite&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-SLeite&layout=compact&langs_count=7&theme=dark"/>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-SLeite&show_icons=true&theme=dracula)
- </div>
  
- 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-SLeite&show_icons=true&theme=dracula)
 ##
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joao-SLeite/Joao-SLeite/output/github-contribution-grid-snake-dark.svg">
