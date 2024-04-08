@@ -17,7 +17,7 @@
 
 ##
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-SLeite&show_icons=true&theme=dracula)
+ ![Joao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joao-SLeite&show_icons=true&theme=dracula)
 ##
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joao-SLeite/Joao-SLeite/output/github-contribution-grid-snake-dark.svg">
